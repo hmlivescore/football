@@ -8,7 +8,7 @@
       "interval": 45000,
       "is_id": "",
       "get_channel_via_link": false,
-      "stats_url123": "data/arab2026/st",
+      "stats_url": "data/arab2026/st",
       "stan_url": "data/arab2026/sta",
       "channel_br123": "data/arab2026/br",
       "channel_league_id123": 290,
