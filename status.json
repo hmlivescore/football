@@ -2,9 +2,7 @@
   {
     "com.arab.cup": {
       "ads_list": ["zz"],
-
       "app_id": "",
-
       "interval": 45000,
       "is_id": "",
       "get_channel_via_link": false,
