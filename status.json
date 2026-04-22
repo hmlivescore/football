@@ -6,6 +6,7 @@
       "interval": 45000,
       "is_id": "",
       "get_channel_via_link": false,
+      "show_live_logo": false,
       "stats_url": "data/arab2026/st",
       "stan_url": "data/arab2026/sta",
       "channel_br123": "data/arab2026/br",
