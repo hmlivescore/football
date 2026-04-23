@@ -5,7 +5,7 @@
       "app_id": "",
       "interval": 45000,
       "is_id": "",
-      "get_channel_via_link": false,
+      "get_channel_via_link": true,
       "show_live_logo": false,
       "stats_url": "data/arab2026/st",
       "stan_url": "data/arab2026/sta",
