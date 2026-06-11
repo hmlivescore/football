@@ -1,14 +1,14 @@
 [
   {
     "com.arab.cup": {
-      "ads_list": ["am"],
+      "ads_list": ["am", "is"],
       "am_ba": "ca-app-pub-5990839505934941/9752442526",
       "am_in": "ca-app-pub-5990839505934941/3218823765",
       "am_na": "ca-app-pub-5990839505934941/2254746361",
       "app_id": "ca-app-pub-5990839505934941~6768706442",
 
       "interval": 50000,
-      "is_id": "",
+      "is_id": "26b3744e5",
       "get_channel_via_link": true,
       "show_live_logo": false,
       "stats_url": "data/arab2026/st",
