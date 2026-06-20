@@ -9,6 +9,7 @@
 
       "interval": 50000,
       "is_id": "26b3744e5",
+      "football_type": 3,
       "get_channel_via_link": true,
       "show_live_logo": false,
       "stats_urlzzz": "data/arab2026/st",
@@ -86,6 +87,10 @@
   {
     "common": {
       "nationFlag":
+        {
+          "Manchester United":"https://ssl.gstatic.com/onebox/media/sports/logos/5FQBXpID1LAQJb0BOnmTpw_96x96.png"
+        },
+      "nationFlag111":
         {
           "Manchester United":"https://ssl.gstatic.com/onebox/media/sports/logos/5FQBXpID1LAQJb0BOnmTpw_96x96.png",
           "Napoli":"https://ssl.gstatic.com/onebox/media/sports/logos/PWRLYBJqlGrAAsKkUN6eng_96x96.png",
