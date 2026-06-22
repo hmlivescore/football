@@ -9,7 +9,8 @@
 
       "interval": 50000,
       "is_id": "26b3744e5",
-      "football_type": 3,
+      "football_type111": 3,
+      "ch_url" : "all",
       "get_channel_via_link": true,
       "show_live_logo": false,
       "stats_urlzzz": "data/arab2026/st",
