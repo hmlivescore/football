@@ -32,7 +32,7 @@
       "show_live_logo": false,
 
       "fi_url11": "data/wctv2026/fi",
-
+      "ch_url" : "all",
       "stats_url": "data/arab2026/st",
       "stan_url123": "data/arab2026/sta",
       "channel_br123": "data/arab2026/br",
