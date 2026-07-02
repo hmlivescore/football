@@ -40,12 +40,12 @@
       "am_na": "ca-app-pub-3940256099942544/2247696110",
 
       "app_id": "ca-app-pub-3940256099942544~3347511713",
-      "interval": 50000,
+      "interval": 5000,
       "is_id": "",
       "get_channel_via_link": true,
       "show_live_logo": false,
 
-      "fi_url11": "data/wctv2026/fi",
+      "fi_url": "app/encrypt",
       "ch_url" : "all",
       "stats_url": "data/arab2026/st",
       "stan_url123": "data/arab2026/sta",
