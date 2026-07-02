@@ -45,7 +45,7 @@
       "get_channel_via_link": true,
       "show_live_logo": false,
 
-      "fi_url": "app/encrypt",
+      "fi_url11": "app/encrypt",
       "ch_url" : "all",
       "stats_url": "data/arab2026/st",
       "stan_url123": "data/arab2026/sta",
