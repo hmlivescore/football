@@ -18,8 +18,8 @@
       "stan_url123": "data/arab2026/sta",
       "channel_br123": "data/arab2026/br",
 
-      "fi_url": "data/wctv2026/fi",
-      "sta_url": "data/wctv2026/sta",
+      "fi_url11": "data/wctv2026/fi",
+      "sta_url11": "data/wctv2026/sta",
 
 
       "channel_league_id123": 290,
@@ -54,8 +54,8 @@
       "fi_urlzz": "app/encrypt",
       "ch_url" : "all",
       
-      "fi_url": "data/wctv2026/fi",
-      "sta_url": "data/wctv2026/sta",
+      "fi_url11": "data/wctv2026/fi",
+      "sta_url11": "data/wctv2026/sta",
       
       "stats_url": "data/arab2026/st",
       "stan_url123": "data/arab2026/sta",
